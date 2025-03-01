@@ -24,5 +24,7 @@ Creating persuasive product descriptions for e-commerce websites.
 
 ## Connect with Me
 🚀 LinkedIn: www.linkedin.com/in/shubham-manjarekar 
+
 📩 Email: shubhammanjarekar17@gmail.com
+
 🌍 Portfolio: https://github.com/Shubham1714/AI-Prompt-Engineering-Projects
